@@ -1,4 +1,4 @@
-# hwordle# hwordle
+# hwordle
 
 Wordle game written in haskell.
 
